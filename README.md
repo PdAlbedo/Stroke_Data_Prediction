@@ -20,7 +20,6 @@ Making the predictions by building various models.<br>
   * Random Forest classifier
   * Naive Bayes classifier
   * etc.
-<br>
 * **Reference:**
   * [Kaggle note](https://www.kaggle.com/code/rachidyz/eda-and-modeling-for-predicting-stroke)
   * [Kaggle note](https://www.kaggle.com/code/joshuaswords/predicting-a-stroke-shap-lime-explainer-eli5)
